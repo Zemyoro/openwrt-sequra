@@ -1,0 +1,2 @@
+# openwrt-sequra
+OpenWRT Package
